@@ -11,11 +11,11 @@ This is a simple currency converter application built with Vite and React using 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/currency-convertor.git
+    git clone https://github.com/sezallagwal/currency-convertor.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd currency-convertor
+    cd CURRENCY-CONVERTOR
     ```
 3. Install dependencies:
     ```bash
@@ -43,4 +43,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact [sezal1470@example.com](mailto:sezal1470@example.com).
